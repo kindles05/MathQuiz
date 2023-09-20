@@ -1,0 +1,11 @@
+C:\Users\Lesya\source\repos\математквиз\математквиз\bin\Debug\математквиз.exe.config
+C:\Users\Lesya\source\repos\математквиз\математквиз\bin\Debug\математквиз.exe
+C:\Users\Lesya\source\repos\математквиз\математквиз\bin\Debug\математквиз.pdb
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.csproj.AssemblyReference.cache
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.Form1.resources
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.Properties.Resources.resources
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.csproj.GenerateResource.cache
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.csproj.CoreCompileInputs.cache
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.exe
+C:\Users\Lesya\source\repos\математквиз\математквиз\obj\Debug\математквиз.pdb
